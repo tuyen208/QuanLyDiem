@@ -1,0 +1,138 @@
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FormChinh.resources
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Khoa.resources
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.MonHoc.resources
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.pdb
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.exe
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.pdb
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Lop.resources
+c:\users\user\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.SinhVien.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FrmQLDSV.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmTKDiem.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmHocLai.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.DangNhap.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmQLND.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmDiemHocLai.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe.config
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.ThiLai.resources
+C:\Users\USER\documents\visual studio 2010\Projects\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Danh_Sách_Ddiemr.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe.config
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.exe
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.pdb
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.pdb
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csprojResolveAssemblyReference.cache
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.DangNhap.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Danh_Sách_Ddiemr.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form1.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FormChinh.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmDiemHocLai.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmHocLai.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FrmQLDSV.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmQLND.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmTKDiem.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Khoa.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Lop.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.MonHoc.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Properties.Resources.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.SinhVien.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.ThiLai.resources
+G:\Đồ án chuyên ngành\DOANCN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.GenerateResource.Cache
+C:\A\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe.config
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.exe
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.pdb
+C:\A\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe
+C:\A\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.pdb
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csprojResolveAssemblyReference.cache
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.DangNhap.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Danh_Sách_Ddiemr.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form1.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FormChinh.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmDiemHocLai.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmHocLai.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FrmQLDSV.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmQLND.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmTKDiem.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Khoa.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Lop.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.MonHoc.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Properties.Resources.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.SinhVien.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.ThiLai.resources
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.GenerateResource.Cache
+C:\A\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form2.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.AssemblyReference.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.DangNhap.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Danh_Sách_Ddiemr.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form1.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form2.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FormChinh.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmDiemHocLai.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmHocLai.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FrmQLDSV.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmQLND.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmTKDiem.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Khoa.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Lop.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.MonHoc.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Properties.Resources.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.SinhVien.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.ThiLai.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.exe
+C:\Users\Nguyen Trung Tuyen\Downloads\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.pdb
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.AssemblyReference.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.DangNhap.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Danh_Sách_Ddiemr.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form1.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form2.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FormChinh.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmDiemHocLai.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmHocLai.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FrmQLDSV.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmQLND.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmTKDiem.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Khoa.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Lop.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.MonHoc.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Properties.Resources.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.SinhVien.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.ThiLai.resources
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.exe
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.pdb
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe.config
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe
+C:\Users\Nguyen Trung Tuyen\Downloads\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.pdb
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe.config
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.exe
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\bin\Debug\QUANLYDIEM.pdb
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.AssemblyReference.cache
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.SuggestedBindingRedirects.cache
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.DangNhap.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Danh_Sách_Ddiemr.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Form2.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FormChinh.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmDiemHocLai.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmHocLai.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.FrmQLDSV.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmQLND.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.frmTKDiem.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Khoa.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Lop.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.MonHoc.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.Properties.Resources.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.SinhVien.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.ThiLai.resources
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.GenerateResource.cache
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.csproj.CoreCompileInputs.cache
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.exe
+D:\New folder (3)\QUANLYDIEMSINHVIEN\QUANLYDIEM\QUANLYDIEM\obj\x86\Debug\QUANLYDIEM.pdb

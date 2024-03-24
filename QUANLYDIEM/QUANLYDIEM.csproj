@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1716F1C9-ADD6-478E-B6DA-00FA54F8AAF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QUANLYDIEM</RootNamespace>
+    <AssemblyName>QUANLYDIEM</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Danh Sách Ddiemr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Danh Sách Ddiemr.Designer.cs">
+      <DependentUpon>Danh Sách Ddiemr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinh.Designer.cs">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiemHocLai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiemHocLai.Designer.cs">
+      <DependentUpon>frmDiemHocLai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHocLai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHocLai.Designer.cs">
+      <DependentUpon>frmHocLai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQLDSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQLDSV.Designer.cs">
+      <DependentUpon>FrmQLDSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLND.Designer.cs">
+      <DependentUpon>frmQLND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTKDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTKDiem.Designer.cs">
+      <DependentUpon>frmTKDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khoa.Designer.cs">
+      <DependentUpon>Khoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lop.Designer.cs">
+      <DependentUpon>Lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonHoc.Designer.cs">
+      <DependentUpon>MonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QUANLYDIEMSINHVIENDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYDIEMSINHVIENDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYDIEMSINHVIENDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYDIEMSINHVIENDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinhVien.Designer.cs">
+      <DependentUpon>SinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThiLai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThiLai.Designer.cs">
+      <DependentUpon>ThiLai.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Danh Sách Ddiemr.resx">
+      <DependentUpon>Danh Sách Ddiemr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChinh.resx">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiemHocLai.resx">
+      <DependentUpon>frmDiemHocLai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHocLai.resx">
+      <DependentUpon>frmHocLai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQLDSV.resx">
+      <DependentUpon>FrmQLDSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLND.resx">
+      <DependentUpon>frmQLND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTKDiem.resx">
+      <DependentUpon>frmTKDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khoa.resx">
+      <DependentUpon>Khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lop.resx">
+      <DependentUpon>Lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonHoc.resx">
+      <DependentUpon>MonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SinhVien.resx">
+      <DependentUpon>SinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThiLai.resx">
+      <DependentUpon>ThiLai.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QUANLYDIEMSINHVIENDataSet.xsc">
+      <DependentUpon>QUANLYDIEMSINHVIENDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYDIEMSINHVIENDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYDIEMSINHVIENDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYDIEMSINHVIENDataSet.xss">
+      <DependentUpon>QUANLYDIEMSINHVIENDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYDIEMSINHVIENDataSet1.xsc">
+      <DependentUpon>QUANLYDIEMSINHVIENDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYDIEMSINHVIENDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYDIEMSINHVIENDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYDIEMSINHVIENDataSet1.xss">
+      <DependentUpon>QUANLYDIEMSINHVIENDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\du-an-truong-dh-pham-van-dong-dothico-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\99058034.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48bf26ae_14826_resize.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20150308-WA0001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\du-an-truong-dh-pham-van-dong-dothico-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1735096137-1-ts12.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bao-cao-thong-ke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-34-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item_l41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubon11-eda92.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19027251-Exit-icon-with-white-on-red-background-Stock-Photo-button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\long-icon-011_002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoc-van.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tra-cuu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1809x996.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1809x9961.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\du-an-truong-dh-pham-van-dong-dothico-42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dhpvd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\congvan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mankey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HUTE9819%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo CMYK-01 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HUTECH27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2022-12-06 084835.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2022-12-06 084912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2022-12-06 0849121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2022-12-06 085045.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
